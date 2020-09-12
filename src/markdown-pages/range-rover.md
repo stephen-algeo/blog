@@ -1,6 +1,6 @@
 ---
 slug: "/blog/range-rover"
-date: "2019-05-04"
+date: "2020-06-16"
 title: "Why a short ride in a Range Rover made me better at managing my property business"
 ---
 
