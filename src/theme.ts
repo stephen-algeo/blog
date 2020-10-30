@@ -1,0 +1,5 @@
+export const light = "#f8f9fa"
+export const pink = "#f4abc4"
+export const blue100 = "#595b83"
+export const blue200 = "#333456"
+export const blue300 = "#060930"

@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `the property code`,
+    title: `Snowball Property`,
     description: ``,
-    author: `@sjalgeo`,
+    author: `@stephen.algeo`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
