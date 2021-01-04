@@ -11,21 +11,19 @@ export default function Template({
   const { frontmatter, html } = markdownRemark
   return (
     <Layout>
-      {/* <div className="blog-container"> */}
-      <section
-        className="row blog-container"
-        style={{ backgroundColor: light }}
-      >
-        <div className="col-12 col-md-10 offset-md-1 col-lg-4 offset-lg-4">
-          <h2>{frontmatter.title}</h2>
-          <h3>{frontmatter.date}</h3>
-          <div
-            className="blog-post-content"
-            dangerouslySetInnerHTML={{ __html: html }}
-          />
-        </div>
-      </section>
-      {/* </div> */}
+      <Row color="#F7F7F7">
+        <h2 className="blog-title">{frontmatter.title}</h2>
+      </Row>
+      <Row color="white">
+        <section className="row blog-container p-5 md-p-1">
+          <div>
+            <div
+              className="blog-post-content"
+              dangerouslySetInnerHTML={{ __html: html }}
+            />
+          </div>
+        </section>
+      </Row>
     </Layout>
   )
 }

@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Snowball Property`,
+    title: `StraightForward.money`,
     description: ``,
     author: `@stephen.algeo`,
   },

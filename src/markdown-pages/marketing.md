@@ -1,7 +1,7 @@
 ---
 slug: "/blog/marketing-mistake"
 date: "2020-10-27"
-title: "36 JavaScript Concepts You Need to Master to Become an Expert"
+title: "The property marketing mistake which kills me every time"
 ---
 
 Picture this..
@@ -39,7 +39,7 @@ You’ve put in all that work on the refurb, finish the job properly by paying a
 
 Correctly lighting multiple rooms in a house is a complicated process that (with the greatest respect) more than likely you have no idea how to do properly.
 
-A few hundred quid at most. That’s all it takes.
+### A few hundred quid at most. That’s all it takes.
 
 If you’re flipping, you want someone to fall in love with it. If you’re renting you’ve got the photos for life and you can reuse them in the future.
 
