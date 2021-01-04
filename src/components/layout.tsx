@@ -12,6 +12,7 @@ import { useStaticQuery, graphql } from "gatsby"
 import Header from "./header"
 import Row from "./row"
 
+import favicon from "../images/favicon-32x32.png"
 import "./layout.css"
 import "./blog.css"
 
@@ -28,6 +29,7 @@ const Layout = ({ children }) => {
 
   return (
     <>
+      <link rel="icon" href={favicon} />
       <Row>
         <Header siteTitle={data.site.siteMetadata.title} />
       </Row>
