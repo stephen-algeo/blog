@@ -1,10 +1,11 @@
 ---
-slug: "/blog/marketing-mistake"
+slug: "/blog/biggest-property-marketing-mistake"
 date: "2020-10-27"
 title: "The property marketing mistake which kills me every time"
 ---
 
 Picture this..
+
 It’s coming to the end of month eight of that project you swore would be turned around and on the market in 6 weeks.
 
 You’ve smashed through your 10–15% contingency and the flooring guy who promised he’d get the carpets done last week has finally rocked up to get the job done.
@@ -15,7 +16,7 @@ But after a few finishing touches, you’re eventually done. It’s ready.
 
 Bloody hell.
 
-Time to get this bad girl on the market.
+### Time to get this bad girl on the market.
 
 Whip around and take some photos on your phone and then we’re away.
 
@@ -29,7 +30,7 @@ There’s a very strong chance your photos are anywhere from a bit to incredibly
 
 Yes your shots will do the job and you might think the refurb will sell itself.
 
-But why why why after all that work would you leave this, the most important part, to chance.
+But _why why why_ after all that work would you leave this, the most important part, to chance.
 
 When your prospective tenant is eagerly scrolling through Rightmove you’ve literally got a 2-inch window in which you can make an impression.
 
