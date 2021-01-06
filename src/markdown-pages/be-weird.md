@@ -40,5 +40,3 @@ Yep. And you’ll thank me for cyber-bullying you into it.
 You know deep down following the lead of society isn’t going to get you to your goals.
 
 Because you’re the weirdo. And we’re owning it.
-
-![Person walking upstairs when everyone else is going down](../images/stairs.jpg)
