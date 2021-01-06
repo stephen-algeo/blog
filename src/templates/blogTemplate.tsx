@@ -2,7 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import Row from "../components/row"
+import Row, { TitleRow } from "../components/row"
 
 export default function Template({ data }) {
   const { markdownRemark } = data
@@ -19,11 +19,11 @@ export default function Template({ data }) {
         image={featuredImgFluid}
         slug={frontmatter.slug}
       />
-      <Row color="#F7F7F7">
+      <TitleRow>
         <h2 className="blog-title">{frontmatter.title}</h2>
-      </Row>
-      <Row color="white">
-        <section className="row blog-container p-5 md-p-1">
+      </TitleRow>
+      <Row>
+        <section className="row">
           <div>
             <div
               className="blog-post-content"

@@ -60,14 +60,20 @@ a.post-link {
   text-decoration: underline;
 }
 
+.title-content {
+  width: 100%;
+}
+
 @media only screen and (min-width: 480px) {
-  .row-content {
+  .row-content,
+  .title-content {
     padding: 0 10rem;
     max-width: 60rem;
   }
 }
 @media only screen and (min-width: 768px) {
-  .row-content {
+  .row-content,
+  .title-content {
     max-width: 80rem;
   }
 }
