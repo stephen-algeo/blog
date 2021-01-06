@@ -4,11 +4,13 @@ date: "2021-01-06"
 title: "Be weird or be broke"
 ---
 
-Upon more investigation I found this quote from Dave Ramsey was more than three years old.. 
+Upon more investigation I found this quote from Dave Ramsey was more than three years old..
 
 but I only heard it this week.
 
 and I like it.
+
+![Person walking upstairs when everyone else is going down](../images/stairs.jpg)
 
 It's a quite succinct way for encapsulating the bigger message which is that millions of people in the western world are cruising on auto-pilot towards inadequate pensions and working long into their 70s or 80s.
 
@@ -37,3 +39,5 @@ Yep. And you’ll thank me for cyber-bullying you into it.
 You know deep down following the lead of society isn’t going to get you to your goals.
 
 Because you’re the weirdo. And we’re owning it.
+
+![Person walking upstairs when everyone else is going down](../images/stairs.jpg)
