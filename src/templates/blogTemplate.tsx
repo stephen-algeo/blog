@@ -11,6 +11,7 @@ export default function Template({
   const { frontmatter, html } = markdownRemark
   return (
     <Layout>
+      <SEO title={frontmatter.title} />
       <Row color="#F7F7F7">
         <h2 className="blog-title">{frontmatter.title}</h2>
       </Row>
