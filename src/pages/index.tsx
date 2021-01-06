@@ -21,8 +21,8 @@ const IndexPage = ({
     <SEO title="Home" />
     <Row>
       {edges.map(edge => (
-        <div className="post-link-wrapper">
-          <PostLink key={edge.node.id} post={edge.node} />
+        <div key={edge.node.id} className="post-link-wrapper">
+          <PostLink post={edge.node} />
         </div>
       ))}
     </Row>

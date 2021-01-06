@@ -2,7 +2,10 @@ module.exports = {
   siteMetadata: {
     title: `StraightForward.money`,
     description: `Let's talk about money!`,
-    author: `@stephenalgeo`,
+    author: `@stephen.algeo`,
+    twitter: `@stephenalgeo`,
+    instagram: `@stephenalgeo`,
+    tld: `https://straightforward.money`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

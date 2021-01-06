@@ -3,15 +3,22 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Row from "../components/row"
-import { light } from "../theme"
-export default function Template({
-  data, // this prop will be injected by the GraphQL query below.
-}) {
-  const { markdownRemark } = data // data.markdownRemark holds your post data
+
+export default function Template({ data }) {
+  const { markdownRemark } = data
   const { frontmatter, html } = markdownRemark
+
+  const featuredImgFluid = frontmatter.featuredImage
+    ? frontmatter.featuredImage.childImageSharp.fluid.src
+    : undefined
+
   return (
     <Layout>
-      <SEO title={frontmatter.title} />
+      <SEO
+        title={frontmatter.title}
+        image={featuredImgFluid}
+        slug={frontmatter.slug}
+      />
       <Row color="#F7F7F7">
         <h2 className="blog-title">{frontmatter.title}</h2>
       </Row>
@@ -37,6 +44,13 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         slug
         title
+        featuredImage {
+          childImageSharp {
+            fluid(maxWidth: 800) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
       }
     }
   }

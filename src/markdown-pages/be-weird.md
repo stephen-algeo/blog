@@ -2,6 +2,7 @@
 slug: "/blog/be-weird-or-be-broke"
 date: "2021-01-06"
 title: "Be weird or be broke"
+featuredImage: ../images/stairs.jpg
 ---
 
 Upon more investigation I found this quote from Dave Ramsey was more than three years old..
