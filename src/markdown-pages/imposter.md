@@ -4,6 +4,8 @@ date: "2020-06-10"
 title: "From wild imposter-syndrome to hosting an industry networking event"
 ---
 
+![Photo of street art displaying the word 'poser'](../images/poser.jpeg)
+
 Back in 2016 — I’d read two property books (both by the same person) and my good friend was an electrician. I had a vague idea that property was a way of turning a pot of cash now into a flow of cash forever. But I also massively lacked confidence. What was a good return? What legal requirements would I need to meet? Would I end up in jail because I didn’t know the difference between a freehold and a leasehold?
 
 _You don’t know what you don’t know._

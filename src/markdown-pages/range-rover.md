@@ -56,3 +56,5 @@ Each person has their own daily routine and different opportunities through thei
 
 I know I won’t be the only person out there who would quite literally do anything else than make a phone call to someone they don’t really know.
 But for me anyway the solution was acknowledging that and trying to find a place for it in the daily rollercoaster.
+
+![Photo of the front grill of a black Range Rover](../images/range-rover.jpeg)

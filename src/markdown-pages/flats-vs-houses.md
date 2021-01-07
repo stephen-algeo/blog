@@ -4,8 +4,12 @@ date: "2020-06-06"
 title: "Investing in Flats vs Houses"
 ---
 
+![Photo of a modern flat development near a canal](../images/flat-canal.jpeg)
+
 Lots of people will tell you why one is unequivocally better than the other — but the real answer surely depends on your strategy.
+
 Do you hate the idea of having a management company charge you a random fee to ‘maintain’ the ground of a flat complex? Maybe you should stick to houses.
+
 Are you focused on rock solid professional tenant demand? If so you’re not going to find a huge amount of houses smack bang in the city centre of Manchester.
 
 If you excel at reconfiguring and refurbishing then you’re almost certainly going to be looking at houses.

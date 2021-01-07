@@ -4,6 +4,8 @@ date: "2020-06-06"
 title: "Why I’m happy being ‘vanilla’ in a property world of 10,000 flavours"
 ---
 
+![Photo of a counter at an ice cream store](../images/vanilla.png)
+
 When people make their first dramatic entry into property circles, it’s easy to be seduced by all kinds of genius strategies which will make you rich beyond your wildest dreams.
 
 It’ll be no surprise to most that the courses who are training people on these business models, to put it most politely, play down the challenges and downsides in some of these strategies.

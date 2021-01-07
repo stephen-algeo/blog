@@ -4,6 +4,8 @@ date: "2020-10-27"
 title: "The property marketing mistake which kills me every time"
 ---
 
+![Estate agent photo of a messy room with all the cupboards open](../images/agent-photos.jpg)
+
 Picture this..
 
 It’s coming to the end of month eight of that project you swore would be turned around and on the market in 6 weeks.
@@ -57,3 +59,5 @@ If you can start a bidding war, then it was more than worth it.
 I’m wildly frugal in so many things in life but this is one cost where the return on investment is an absolute no-brainer.
 
 If you were going on Dragons Den with the task of pitching a rainbow, would you pay a bit extra for the colour tv? I hope so.
+
+![Exterior property marketing photo which includes a dog pooping on the lawn](../images/dog-lawn.jpeg)

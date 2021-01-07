@@ -68,3 +68,5 @@ As your business grows so do your options — every penny counts at the start an
 When that moment comes, I’ll absolutely reassess but for the time being I’m on this crazy rollercoaster, chest out, eyes wide open with no one to blame but myself if I fuck it up.
 
 Who’s with me?
+
+![Cartoon image of a friendly pension-age couple](../images/pensioner.png)
