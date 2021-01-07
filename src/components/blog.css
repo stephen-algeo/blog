@@ -55,6 +55,12 @@ a.post-link {
   text-decoration: none;
 }
 
+a.regular-link {
+  color: #d96050;
+  font-size: 2rem;
+  text-decoration: none;
+}
+
 .post-link:hover {
   color: #d96050;
   text-decoration: underline;
