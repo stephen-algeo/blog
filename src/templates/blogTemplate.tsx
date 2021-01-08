@@ -3,6 +3,7 @@ import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Row, { TitleRow } from "../components/row"
+import Avatar from "../components/avatar"
 
 export default function Template({ data }) {
   const { markdownRemark } = data
@@ -23,6 +24,11 @@ export default function Template({ data }) {
         <h2 className="blog-title">{frontmatter.title}</h2>
       </TitleRow>
       <Row>
+        <section className="row blog-info">
+          <Avatar />
+          <span className="author">Stephen Algeo</span>{" "}
+          <span className="blog-date">{frontmatter.date}</span>
+        </section>
         <section className="row">
           <div>
             <div
