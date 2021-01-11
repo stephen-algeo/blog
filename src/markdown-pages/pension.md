@@ -2,6 +2,7 @@
 slug: "/blog/why-i-dont-invest-into-a-pension"
 date: "2020-06-04"
 title: "Why I ignore all sane advice and don’t pay anything a pension"
+featuredImage: ../images/pensioner.png
 ---
 
 This is something I’ve wrestled within over the past few years. The advice is simple — make sure you pay into a private pension because the state pension isn’t guaranteed to give you any quality of life in retirement other than merely existing.

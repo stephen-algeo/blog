@@ -2,6 +2,7 @@
 slug: "/blog/why-im-happy-being-vanilla"
 date: "2020-06-06"
 title: "Why I’m happy being ‘vanilla’ in a property world of 10,000 flavours"
+featuredImage: ../images/vanilla.png
 ---
 
 ![Photo of a counter at an ice cream store](../images/vanilla.png)

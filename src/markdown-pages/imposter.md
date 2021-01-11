@@ -2,6 +2,7 @@
 slug: "/blog/imposter-syndrome-to-hosting-a-networking-event"
 date: "2020-06-10"
 title: "From wild imposter-syndrome to hosting an industry networking event"
+featuredImage: ../images/poser.jpeg
 ---
 
 ![Photo of street art displaying the word 'poser'](../images/poser.jpeg)

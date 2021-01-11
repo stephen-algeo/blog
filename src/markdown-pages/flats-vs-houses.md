@@ -2,6 +2,7 @@
 slug: "/blog/investing-in-flats-vs-houses"
 date: "2020-06-06"
 title: "Investing in Flats vs Houses"
+featuredImage: ../images/flat-canal.jpeg
 ---
 
 ![Photo of a modern flat development near a canal](../images/flat-canal.jpeg)

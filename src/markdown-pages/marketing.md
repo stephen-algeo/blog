@@ -2,6 +2,7 @@
 slug: "/blog/biggest-property-marketing-mistake"
 date: "2020-10-27"
 title: "The property marketing mistake which kills me every time"
+featuredImage: ../images/agent-photos.jpg
 ---
 
 ![Estate agent photo of a messy room with all the cupboards open](../images/agent-photos.jpg)

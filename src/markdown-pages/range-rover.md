@@ -2,6 +2,7 @@
 slug: "/blog/range-rover"
 date: "2020-06-16"
 title: "Why a short ride in a Range Rover made me better at managing my property business"
+featuredImage: ../images/range-rover.jpeg
 ---
 
 I rocked up to site in my scruffy 10 year-old Ford Fiesta. A small group of us had been invited to take a look around the two latest projects of a low-key but prolific investor and businessman in operating in Bradford.

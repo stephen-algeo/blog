@@ -34,7 +34,7 @@ function SEO({
   )
 
   const url = `${site.siteMetadata.tld}${slug}`
-  const ogImage = `${site.siteMetadata.tld}${image}`
+  const ogImage = image ? `${site.siteMetadata.tld}${image}` : 'https://www.interest.co.nz/sites/default/files/feature_images/pensions.jpg'
   const metaDescription = description || site.siteMetadata.description
 
   return (
