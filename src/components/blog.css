@@ -70,7 +70,11 @@ section.blog-info {
 }
 
 .post-link-wrapper {
-  margin-bottom: 2rem;
+  border: 0.1rem solid #ccc;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.1rem 1.6rem 1rem rgb(64 64 64 / 8%);
+  margin-bottom: 1rem;
+  padding: 2.5rem 2rem;
 }
 
 a.post-link {

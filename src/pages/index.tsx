@@ -5,11 +5,9 @@ import SEO from "../components/seo"
 import Row from "../components/row"
 
 const PostLink = ({ post }) => (
-  <div>
-    <Link to={post.frontmatter.slug} className="post-link">
-      {`=> ${post.frontmatter.title}`}
-    </Link>
-  </div>
+  <Link to={post.frontmatter.slug} className="post-link">
+    <div>{post.frontmatter.title}</div>
+  </Link>
 )
 
 const IndexPage = ({
