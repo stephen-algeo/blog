@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: straightforward.money
-Token: 56080f4c680873c10dd41459b0b7d145debe238ca6d60311206434afba325470
